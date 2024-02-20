@@ -10,3 +10,4 @@ while True:
     resposta = minha_funcao(valor1, valor2)
 
     print(valor1, "+", valor2, "=", resposta)
+    break

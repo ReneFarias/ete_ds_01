@@ -6,7 +6,7 @@ print("______________")
 print("@ Fluxo de caixa")
 print("______________")
 print("1 - Adicionar receita")
-print("1 - Adicionar despesa")
+print("2 - Adicionar despesa")
 print("\n# Digite outro numero para encerrar #\n")
 
 def adicionar_transacao():

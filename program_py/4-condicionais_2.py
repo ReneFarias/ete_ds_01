@@ -8,4 +8,4 @@ elif salario > 3000 and salario <= 6000:
 elif salario > 6000 and salario <= 15000:
     print("programador senior")
 else:
-    print("gerent de projetos")
+    print("gerente de projetos")
