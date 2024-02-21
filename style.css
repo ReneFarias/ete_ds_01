@@ -221,3 +221,10 @@ body {
   padding: 0 auto;
   margin: 0 auto;
 }
+
+.butao{
+  color: white;
+  background-color: firebrick;
+  border-radius: 3rem;
+  
+}
